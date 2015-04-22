@@ -1,0 +1,37 @@
+# ---------------- #
+#   Main Configs   #
+# ---------------- #
+baseurl: ""#http://www.xinfo.me
+url: http://www.xinfo.me
+date_format: "ordinal"
+title: 一片相思林的博客
+author: Ligong Hu 
+paginate: 9
+
+# ---------------- #
+#   RSS / Email    #
+# ---------------- #
+subscribe_rss: /feed.xml
+email:
+
+# ---------------- #
+#      Jekyll      #
+# ---------------- #
+highlighter: pygments
+
+markdown: redcarpet # [ maruku | rdiscount | kramdown | redcarpet ]
+redcarpet: 
+    extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data", "superscript","strikethrough","highlight", "prettify"]
+  
+permalink: /:year/:month/:day/:title
+gems:
+    - jekyll-sitemap
+collections:
+    wiki:
+        output: true
+        permalink: /wiki/:path/
+
+# ---------------- #
+#      Comments    #
+# ---------------- #
+duoshuo_short_name: huligong1234
