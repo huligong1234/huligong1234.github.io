@@ -22,7 +22,7 @@ keywords: Markdown
 ```
 [一片相思林的博客](http://www.xinfo.me)
 
-<http://www.mazhuang.org>
+<http://www.xinfo.me>
 ```
 
 [一片相思林的博客](http://www.xinfo.me)  
