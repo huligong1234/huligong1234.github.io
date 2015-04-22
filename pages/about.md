@@ -13,18 +13,6 @@ Suzhou City, China | Computer Software
 *Education:* Changzhou College of Information Technology
 
 
-*Contact:* `print '%s@%s' % ('com.software', '163.com') `
+*Contact:* `com.software#163.com `
 
 *Social:*  [github](http://github.com/huligong1234) | [weibo](http://weibo.com/u/1761855243) | [cnblogs](http://www.cnblogs.com/huligong1234)
- 
-```go
-package main
-
-import (
-	"fmt"
-)
-
-func main() {
-	fmt.Println("Hello world")
-}
-```
