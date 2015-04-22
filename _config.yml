@@ -1,7 +1,7 @@
 # ---------------- #
 #   Main Configs   #
 # ---------------- #
-baseurl: ""#http://www.xinfo.me
+baseurl: http://www.xinfo.me
 url: http://www.xinfo.me
 date_format: "ordinal"
 title: 一片相思林的博客
