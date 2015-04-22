@@ -20,14 +20,14 @@ keywords: Markdown
 ###超链接
 
 ```
-[靠谱-ing](http://www.mazhuang.org)
+[一片相思林的博客](http://www.xinfo.me)
 
 <http://www.mazhuang.org>
 ```
 
-[靠谱-ing](http://www.mazhuang.org)  
+[一片相思林的博客](http://www.xinfo.me)  
 
-<http://www.mazhuang.org>
+<http://www.xinfo.me>
 
 ###列表
 
