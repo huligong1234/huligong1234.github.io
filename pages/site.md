@@ -6,11 +6,11 @@ keywords: huligong1234, 一片相思林
 permalink: /site.html
 ---
 
-**常用网址**
+## **常用网址**
 
-## 综合
+### 综合
 
-[36大数据](http://www.36dsj.com/){:target="_blank"}
+[36大数据](http://www.36dsj.com/)
 
 [数盟](http://dataunion.org/)
 
@@ -26,7 +26,7 @@ permalink: /site.html
 
 [中国统计网](http://www.itongji.cn/)
 
-## 阅读
+### 阅读
 
 [百度阅读](http://yuedu.baidu.com/customer/mybook)
 
@@ -36,7 +36,7 @@ permalink: /site.html
 
 [免费的计算机编程类中文书籍](https://github.com/justjavac/free-programming-books-zh_CN)
 
-## 技术社区&资讯
+### 技术社区&资讯
 
 [极客头条](http://geek.csdn.net/)
 
