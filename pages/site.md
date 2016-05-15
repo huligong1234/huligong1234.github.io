@@ -33,6 +33,8 @@ permalink: /site.html
 ### 综合
 
 * [36大数据](http://www.36dsj.com/)
+* [数据分析网](http://www.afenxi.com/)
+* [cdadata](http://www.cdadata.com/)
 * [数盟](http://dataunion.org/)
 * [大数据导航](http://hao.199it.com/)
 * [紫数](http://www.zishu010.com/)
