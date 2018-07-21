@@ -29,6 +29,7 @@ permalink: /site.html
 * [左岸阅读](http://www.zreading.cn/)
 * [简书](http://www.jianshu.com/)
 * [免费的计算机编程类中文书籍](https://github.com/justjavac/free-programming-books-zh_CN)
+* [后端架构师技术图谱](https://github.com/xingshaocheng/architect-awesome)
 * [中国哲学书电子化计划](http://ctext.org/zhs)
 
 ### 综合
